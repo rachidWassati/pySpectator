@@ -1,9 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='pyspectator',
-    version='0.0.1',
-    packages=['pyspectator'],
+    name='monitopy',
+    packages=['monitopy'],
     install_requires=[
         'watchdog'
     ],

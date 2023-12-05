@@ -1,6 +1,6 @@
 import logging
 
-from pyspectator.spectator import FileWatcher
+from monitopy.spectator import FileWatcher
 
 # Configuration du module logging
 logging.basicConfig(filename='pySpectator.log', level=logging.INFO,
