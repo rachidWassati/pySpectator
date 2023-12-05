@@ -12,6 +12,7 @@
 
 ## Installation
 
+Pas encore mis sur pypi.org
 ```bash
 pip install pySpectator
 ```
