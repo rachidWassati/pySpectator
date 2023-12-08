@@ -1,4 +1,5 @@
 README.md
+setup.cfg
 setup.py
 monitopy/__init__.py
 monitopy/spectator.py
